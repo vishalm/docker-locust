@@ -47,7 +47,7 @@ Getting Started
 docker-locust will be run as **standalone** version by default. Standalone version is for users who has only 1 single machine.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/zalando-incubator/docker-locust/master/local.sh) deploy
+bash <(curl -s https://raw.githubusercontent.com/vishalm/docker-locust/master/local.sh) deploy
 ```
 
 You will be prompted for certains inputs required (You can use [our example] in github as load test script).
